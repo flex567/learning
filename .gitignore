@@ -1,0 +1,4 @@
+# Comment
+tempfile.txt
+*.html
+!index.html
