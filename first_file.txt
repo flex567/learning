@@ -1,3 +1,1 @@
-first line with first file
-
-new changes - new feature
+one from master
